@@ -1,4 +1,4 @@
-baseURL = "http://nmudos.com/"
+baseURL = "https://nmudos.com/"
 languageCode = "en-us"
 title = "nMudOS"
 themesDir = "themes"

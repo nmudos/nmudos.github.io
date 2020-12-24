@@ -64,37 +64,37 @@ link = "plugins/slick/slick.min.js"
 [[menu.main]]
     parent = "Language"
     name = "LPC Language"
-    url = "/lpc/"
+    url = "/language/lpc/"
     weight = 1
 
 [[menu.main]]
     parent = "Language"
     name = "Lua Language"
-    url = "/lpc/"
+    url = "/language/lua/"
     weight = 2
 
 [[menu.main]]
     parent = "Language"
     name = "JavaScript Language"
-    url = "/lpc/"
+    url = "/language/js/"
     weight = 3
 
 [[menu.main]]
     parent = "References"
     name = "efun"
-    url = "/efun/"
+    url = "/ref/efun/"
     weight = 1
 
 [[menu.main]]
     parent = "References"
     name = "apply"
-    url = "/apply/"
+    url = "/ref/apply/"
     weight = 2
 
 [[menu.main]]
     parent = "References"
     name = "stdlib"
-    url = "/stdlib/"
+    url = "/ref/stdlib/"
     weight = 3
 
 # footer menu left
@@ -104,7 +104,7 @@ URL = "/about"
 
 [[menu.footer_left]]
 name = "Join us"
-URL = "#"
+URL = "/joinus"
 
 [[menu.footer_left]]
 name = "Donate"
@@ -148,7 +148,7 @@ footer_menu_middle = "Github"
 footer_menu_right = "Support"
 footer_content = "nMudOS is a modern mud game drive."
 # copyright
-copyright = "The nMudOS logos are copyright © xinlei zhang 2020–2021. Develop By [mebius](mebius@ashan.org) . The Website Design By [Themefisher](https://themefisher.com/)"
+copyright = "The nMudOS logos are copyright © Xinlei Zhang 2020–2021. Develop By [mebius](mebius@ashan.org) . The Website Design By [Themefisher](https://themefisher.com/)"
 
 # Navigation buttons
 [params.navigation_button]

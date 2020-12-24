@@ -1,7 +1,7 @@
 ####################### Banner #########################
 banner:
   title : "nMudOS is next MudOS"
-  image : "images/banner-art.svg"
+  image : "images/banner.png"
   content : "nMudOS is a modern mud game drive that is not only compatible with existing MudOS and FluffOS, but also creatively adds more features, while also allowing developers/game designers to quickly make mud games using LUA and JavaScript languages."
   button:
     enable : true
@@ -103,10 +103,10 @@ screenshot:
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Ready to get started?"
+  title : "Ready to develop your own MUD game?"
   image : "images/game.jpg"
-  content : "nMudOS is a modern mud game drive that is not only compatible with existing MudOS and FluffOS, but also creatively adds more features, while also allowing developers/game designers to quickly make mud games using LUA and JavaScript languages."
+  content : "Develop your own MUD game, share it with the community, and experience the joy of the game with other players and game designers who love MUD games."
   button:
     enable : true
-    label : "Contact Us"
-    link : "contact"
+    label : "Let's Go"
+    link : "https://github.com/nmudos/nmudos"

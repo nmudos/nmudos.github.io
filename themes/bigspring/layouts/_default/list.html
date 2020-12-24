@@ -44,7 +44,7 @@
 
 {{ end }}
 
-{{ if (eq .Section "docs")}}
+{{ if or (or (eq .Section "docs") (eq .Section "ref")) (or (eq .Section "language") )}}
 <section class="section">
   <div class="container">
     <div class="row">

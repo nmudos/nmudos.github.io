@@ -23,12 +23,22 @@
   </url>
   
   <url>
-    <loc>https://nmudos.com/docs/post-1/</loc>
-    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+    <loc>https://nmudos.com/client/</loc>
+    <lastmod>2020-12-23T23:28:36+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nmudos.com/docs/post-4/</loc>
+    <loc>https://nmudos.com/donate/</loc>
+    <lastmod>2020-12-23T23:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmudos.com/joinus/</loc>
+    <lastmod>2020-12-23T23:28:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmudos.com/docs/post-1/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
   </url>
   
@@ -43,7 +53,97 @@
   </url>
   
   <url>
+    <loc>https://nmudos.com/language/js/post-1/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmudos.com/language/lpc/post-1/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmudos.com/language/lua/post-1/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmudos.com/news/new-1/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmudos.com/news/post-1/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmudos.com/ref/apply/post-1/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmudos.com/ref/efun/post-1/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmudos.com/ref/stdlib/post-1/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmudos.com/docs/post-4/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmudos.com/language/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmudos.com/language/js/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmudos.com/language/lpc/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmudos.com/language/lua/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmudos.com/news/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmudos.com/ref/apply/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmudos.com/ref/efun/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmudos.com/ref/stdlib/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nmudos.com/docs/post-2/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nmudos.com/ref/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
   </url>
   
@@ -54,10 +154,6 @@
   
   <url>
     <loc>https://nmudos.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nmudos.com/news/</loc>
   </url>
   
   <url>

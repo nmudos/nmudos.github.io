@@ -21,9 +21,9 @@
     </div>
   </div>
 </section>
-
+{{ end }}
 <!-- regular page -->
-{{ else }}
+{{ if or (or (eq .Section "docs") (eq .Section "ref")) (or (eq .Section "language") )}}
 <section class="section">
   <div class="container">
     <div class="row">
@@ -40,6 +40,22 @@
     </div>  
   </div>
 </section>
+{{ else }}
+
+{{ partial "page-header.html" . }}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-6">
+        <!-- {{ partial "page-header.html" . }} -->
+        <div class="content">{{ .Content }}</div>
+      </div>
+      <div class="col-md-2"></div>
+    </div>  
+  </div>
+</section>
+
 {{ end }}
 
 

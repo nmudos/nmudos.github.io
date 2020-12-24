@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <!-- checking blog -->
-{{ if or (or (eq .Section "post") (eq .Section "blog")) (or (eq .Section "categories") (eq .Section "tags") )}}
+{{ if (eq .Section "news")}}
 
 <section class="section">
   <div class="container">
@@ -24,14 +24,20 @@
 
 <!-- regular page -->
 {{ else }}
-{{ partial "page-header.html" . }}
 <section class="section">
   <div class="container">
     <div class="row">
-      <div class="col-lg-10 mx-auto">
+      <div class="col-lg-3">
+        {{ $t := .CurrentSection.Pages }}
+        {{ range $t }}
+          <p style="margin-bottom: 5px"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+        {{ end }}
+      </div>
+      <div class="col-lg-9">
+        <!-- {{ partial "page-header.html" . }} -->
         <div class="content">{{ .Content }}</div>
       </div>
-    </div>
+    </div>  
   </div>
 </section>
 {{ end }}

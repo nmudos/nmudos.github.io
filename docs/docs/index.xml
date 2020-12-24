@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on nMudOS</title>
+    <title>Documents on nMudOS</title>
     <link>https://nmudos.com/docs/</link>
-    <description>Recent content in Docs on nMudOS</description>
+    <description>Recent content in Documents on nMudOS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Dec 2020 23:30:05 +0800</lastBuildDate><atom:link href="https://nmudos.com/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Dec 2020 23:30:05 +0800</lastBuildDate>
+    
+	<atom:link href="https://nmudos.com/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Build</title>
       <link>https://nmudos.com/docs/build/</link>
@@ -14,6 +18,60 @@
       
       <guid>https://nmudos.com/docs/build/</guid>
       <description>build</description>
+    </item>
+    
+    <item>
+      <title>Adversus is a web-based dialer and practical CRM solution</title>
+      <link>https://nmudos.com/docs/post-1/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://nmudos.com/docs/post-1/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+    </item>
+    
+    <item>
+      <title>Adversus is a web-based dialer and practical CRM solution</title>
+      <link>https://nmudos.com/docs/post-4/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://nmudos.com/docs/post-4/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+    </item>
+    
+    <item>
+      <title>Adversus is a web-based dialer and practical CRM solution</title>
+      <link>https://nmudos.com/docs/post-5/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://nmudos.com/docs/post-5/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+    </item>
+    
+    <item>
+      <title>Adversus is a web-based dialer and practical CRM solution</title>
+      <link>https://nmudos.com/docs/post-6/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://nmudos.com/docs/post-6/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+    </item>
+    
+    <item>
+      <title>Pump-up the team morale and celebrate the excellence</title>
+      <link>https://nmudos.com/docs/post-2/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://nmudos.com/docs/post-2/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+    </item>
+    
+    <item>
+      <title>screens with built in Present and Dismiss animations.</title>
+      <link>https://nmudos.com/docs/post-3/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://nmudos.com/docs/post-3/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
   </channel>

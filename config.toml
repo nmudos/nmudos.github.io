@@ -107,8 +107,8 @@ name = "Join us"
 URL = "#"
 
 [[menu.footer_left]]
-name = "Sponsored"
-URL = "sponsored"
+name = "Donate"
+URL = "donate"
 
 # footer menu middle
 [[menu.footer_middle]]

@@ -6,6 +6,10 @@
     <description>Recent content in Languages on nMudOS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate><atom:link href="https://nmudos.com/language/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate>
+    
+	<atom:link href="https://nmudos.com/language/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
